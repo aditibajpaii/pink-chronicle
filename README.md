@@ -1,6 +1,7 @@
 # Pink Chronicles
 
 Pink Chronicles is a modern, interactive web application for book lovers. It provides a platform for users to discover, track, and engage with their favorite books and fellow readers.
+![Uploading Screenshot 2024-12-02 at 9.49.59 AM.png…]()
 
 ## Features
 
